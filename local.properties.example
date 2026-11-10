@@ -1,0 +1,3 @@
+app.bot-token=YOUR_BOTFATHER_TOKEN
+app.web-app-url=https://something.trycloudflare.com
+app.dev-mode=true
